@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: The Dead City
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -16,30 +16,31 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      title: Splash
+      header: Oswald
+      body: Figtree
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#efebe3"
+        lightgray: "#d8d1c4"
+        gray: "#6c645a"
+        darkgray: "#3b3631"
+        dark: "#1f1c19"
+        secondary: "#8b2c22"
+        tertiary: "#2e6a60"
+        highlight: "#8b2c221f"
+        textHighlight: "#d9a43a73"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#131211"
+        lightgray: "#2b2825"
+        gray: "#8a8277"
+        darkgray: "#cdc6ba"
+        dark: "#eee8dd"
+        secondary: "#e0735a"
+        tertiary: "#7db3a5"
+        highlight: "#e0735a24"
+        textHighlight: "#b07d1f66"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -110,11 +111,16 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
-  - source: "@quartz-themes/core"
-    enabled: true
     options:
-      theme: its-theme
-      variation: ttrpg-dnd
+      fontOrigin: googleFonts
+      title: Federo
+      header: Oswald
+      body: Figtree
+      code: IBM Plex Mono
+  - source: "@quartz-themes/core"
+    enabled: false
+    options:
+      theme: everforest
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
