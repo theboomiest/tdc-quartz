@@ -1,3 +1,0 @@
-In a flooded portion of [[The Dead City]], there is a fishing village in which columns made of steel and concrete extend above the saltwater that support small shack houses that the fishermen live in. Ropes cross between the poles that allow precarious travel between the shacks and hold up the fishermen's nets. Boats transport goods to the shacks and collect the fish to return to sell at the nearby settlement.
-
-[Link to youtube inspo](https://youtu.be/FLDLCehR-cg)

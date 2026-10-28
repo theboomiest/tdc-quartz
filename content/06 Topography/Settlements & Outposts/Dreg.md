@@ -1,0 +1,1 @@
+A small settlement built from the ruins of an enclosed trainyard. Dreg is well protected from outside raids given the long sight lines provided by the railroad tracks, making this a favorite meeting spot for travelers and traders.

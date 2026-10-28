@@ -1,4 +1,0 @@
-# Enemy concept: RATs
-There are robotic Reclamation & Anti Trespass units - RATs - whose only goal is to restore the city to its former glory. However, whatever schematics these robots are using - if any - are corrupted. They lay concrete and rebar in nonsensical patterns, creating labyrinthine dungeons that only vaguely resemble something meant for habitation. These dungeons are commonly referred to as rats' nests and are typically avoided unless causing problems for a nearby settlement. 
-
-The RATs seem to crop up randomly and their numbers never seem to dissipate no matter how many are taken out; there must be a factory pumping them out somewhere in the dead city.
