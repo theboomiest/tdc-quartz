@@ -12,7 +12,7 @@ Builder units are able to rapidly fashion structures out of raw materials provid
 
 ## Combat RATs
 
-![[Pasted image 20261028174429.png]]
+![[img_RAT-combat.png]]
 
 Functional combat units are rare in recent times, but records document swarms of them sweeping over the city between the first and second cataclysms. As a result, many inert combat units can be found throughout the city in various states of destruction.
 
