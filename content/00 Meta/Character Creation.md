@@ -20,6 +20,11 @@ Expect to roll physical dice while playing, so make sure any roll modifiers are 
 
 ## Setting Considerations
 
+### Backgrounds & Species
+
+If a background is available in the PHB or supplemental book and suits your character but doesn't seem to fit the dead city setting, take it anyway! The name and description of the background can be changed to fit the city, just make a note of the original background name before modifying it.
+
+For species options, if a standard option suits your character feel free to take it; even if it seems counter to the setting. The dead city is home to a wide variety of fantasy races after the second cataclysm.
 ### Equipment
 
 As above, all standard equipment options are available to you for character creation, but you are encouraged to reskin those options to better fit the setting. Just make sure you note down what the original option was! Keep in mind, the craftsmen of the dead city are working with medieval-era tools and their products vary hugely in quality and aesthetic.
