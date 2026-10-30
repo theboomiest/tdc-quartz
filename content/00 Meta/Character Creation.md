@@ -1,6 +1,6 @@
 ## Overview
 
-This page should give you enough information to create a character in The Dead City. Other than the page for your character's upcoming quest, none of the other pages in this wiki are required reading.
+This page should give you enough information to create a character in The Dead City. Other than the entry for your character's upcoming quest, none of the other pages in this wiki are required reading.
 
 ## Dungeons & Dragons 5.5e
 
@@ -32,7 +32,7 @@ Some examples:
 
 Magic is uncommon amongst the denizens of the dead city, but those capable of [[Spellcasting]] do so by personally connecting with a piece of lore pertaining to the first or second cataclysm. 
 
-**You are not expected to come up with lore history for all your character's known spells (unless you really want to), just know that this is the mechanism for spellcasting in The Dead City.**
+**You are not expected to come up with historic lore for all your character's known spells (unless you really want to), just know that this is the mechanism for spellcasting in The Dead City.**
 
 Each type of spellcaster connects with lore in different ways: a wizard might meticulously study the context of an eye witness account to fully grasp the context; a bard may pass along spoken stories or learn the songs of the original survivors of the first cataclysms; a cleric might draw deep religious meaning from descriptions of the cataclysms.
 
