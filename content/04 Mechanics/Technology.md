@@ -1,4 +1,4 @@
-Modern denizens of the dead city are surrounded by the remnants of a civilization incomprehensibly more advanced than themselves. What few technologies remained operable following the [[First Cataclysm]] were later destroyed by the elements or the [[Second Cataclysm]].
+Modern denizens of the dead city are surrounded by the remnants of a civilization incomprehensibly more advanced than themselves. What few technologies remained operable following the [[First Cataclysm]] were later destroyed; either by the elements or the [[Second Cataclysm]].
 
 Progress at rediscovering and recreating those lost technologies has been slow; electricity has remained practically out of reach due to the [[Lightning Bugs]] that infest the city and the [[RATs]] that scour the ruins for valuable scrap to construct their nests.
 
